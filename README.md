@@ -86,7 +86,7 @@
   <div class="message" id="Message">💖 For you 💖<br>เป็นแฟนกับพี่นะคับหนู</div>
   <div class="hint">(จดหมายรัก 💌)</div>
 
-  <audio id="bgMusic" src="c:\Users\sorayut\Downloads\- COCKTAIL _Official MV_.mp3" preload="auto"></audio>
+  <audio id="bgMusic" src="c:\Users\sorayut\Downloads\Y2DL_บอกรัก_(2016_Remastered).mp3" preload="auto"></audio>
 
   <script>
     function openCard() {
